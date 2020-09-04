@@ -1,2 +1,1 @@
-# cs3141
-TSP repository
+edit for cs3141 assignment
